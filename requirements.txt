@@ -1,0 +1,11 @@
+# Core OpenGL Bindings
+PyOpenGL==3.1.7
+PyOpenGL-accelerate==3.1.7
+
+# Windowing and Math
+glfw==2.7.0
+PyGLM==2.7.3
+
+# Image Processing and Data
+numpy==1.26.4
+Pillow==10.2.0
