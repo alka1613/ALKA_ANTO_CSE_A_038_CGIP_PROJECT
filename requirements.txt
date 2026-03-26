@@ -1,11 +1,15 @@
-# Core OpenGL Bindings
+# OpenGL Bindings
 PyOpenGL==3.1.7
 PyOpenGL-accelerate==3.1.7
 
-# Windowing and Math
+# Windowing and Input
 glfw==2.7.0
+
+# Mathematics (GLM implementation for Python)
 PyGLM==2.7.3
 
-# Image Processing and Data
-numpy==1.26.4
+# Image Processing (Texture Loading)
 Pillow==10.2.0
+
+# Numerical Operations
+numpy==1.26.4
